@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImgurAlbumLoader</string>
+    <string name="show_album_button">Show album</string>
+    <string name="image">Image</string>
+</resources>
